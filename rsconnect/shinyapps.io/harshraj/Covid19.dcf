@@ -1,0 +1,13 @@
+name: COVID19
+title: Covid19
+username:
+account: harshraj
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2538334
+bundleId: 3358024
+url: https://harshraj.shinyapps.io/Covid19/
+when: 1594044258.44643
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
